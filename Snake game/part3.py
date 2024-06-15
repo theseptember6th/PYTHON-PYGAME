@@ -1,7 +1,7 @@
 """
 AUTHOR: KRISTAL SHRESTHA
 DATE: 6/15/2024
-PURPOSE: Snake game part 2
+PURPOSE: Snake game part 3
 """
 
 import pygame

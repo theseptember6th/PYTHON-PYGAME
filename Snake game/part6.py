@@ -1,7 +1,7 @@
 """
 AUTHOR: KRISTAL SHRESTHA
 DATE: 6/15/2024
-PURPOSE: Snake game part 6 
+PURPOSE: Snake game part 6 (movement solved)
 """
 
 import pygame

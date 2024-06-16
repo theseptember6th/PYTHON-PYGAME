@@ -1,7 +1,7 @@
 """
 AUTHOR: KRISTAL SHRESTHA
 DATE: 6/15/2024
-PURPOSE: Snake game part 10 (highscore setup using file as backup)
+PURPOSE: Snake game part 11 (highscore setup using file as backup)
 """
 
 import pygame
